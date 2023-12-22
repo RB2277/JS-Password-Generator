@@ -1,4 +1,4 @@
-# JS PAssword Generator
+# JS Password Generator
 
 ## Description
 
