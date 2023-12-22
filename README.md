@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a random password generator build with JavaScript. You are able to select various choices which will generate your password based off the criteria selected.
+This is a random password generator built with JavaScript. You are able to select various choices which will generate your password based off the criteria selected.
 
 ## Usage
 
